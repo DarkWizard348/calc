@@ -1,0 +1,4 @@
+sonar.projectKey=StudentManagementSystem 
+sonar.projectName=Student Management System 
+sonar.sources=. 
+sonar.sourceEncoding=UTF-8 
